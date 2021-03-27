@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.43936379.chunk.css",
-    "main.js": "/static/js/main.2e11d6a8.chunk.js",
-    "main.js.map": "/static/js/main.2e11d6a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8ec325ab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8ec325ab.js.map",
-    "static/js/2.002b9bbd.chunk.js": "/static/js/2.002b9bbd.chunk.js",
-    "static/js/2.002b9bbd.chunk.js.map": "/static/js/2.002b9bbd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.43936379.chunk.css.map": "/static/css/main.43936379.chunk.css.map",
-    "static/js/2.002b9bbd.chunk.js.LICENSE.txt": "/static/js/2.002b9bbd.chunk.js.LICENSE.txt",
-    "static/media/witcher.3aee24ec.png": "/static/media/witcher.3aee24ec.png"
+    "main.css": "/react-rpg/static/css/main.43936379.chunk.css",
+    "main.js": "/react-rpg/static/js/main.2e11d6a8.chunk.js",
+    "main.js.map": "/react-rpg/static/js/main.2e11d6a8.chunk.js.map",
+    "runtime-main.js": "/react-rpg/static/js/runtime-main.d17df278.js",
+    "runtime-main.js.map": "/react-rpg/static/js/runtime-main.d17df278.js.map",
+    "static/js/2.002b9bbd.chunk.js": "/react-rpg/static/js/2.002b9bbd.chunk.js",
+    "static/js/2.002b9bbd.chunk.js.map": "/react-rpg/static/js/2.002b9bbd.chunk.js.map",
+    "index.html": "/react-rpg/index.html",
+    "static/css/main.43936379.chunk.css.map": "/react-rpg/static/css/main.43936379.chunk.css.map",
+    "static/js/2.002b9bbd.chunk.js.LICENSE.txt": "/react-rpg/static/js/2.002b9bbd.chunk.js.LICENSE.txt",
+    "static/media/witcher.3aee24ec.png": "/react-rpg/static/media/witcher.3aee24ec.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ec325ab.js",
+    "static/js/runtime-main.d17df278.js",
     "static/js/2.002b9bbd.chunk.js",
     "static/css/main.43936379.chunk.css",
     "static/js/main.2e11d6a8.chunk.js"
