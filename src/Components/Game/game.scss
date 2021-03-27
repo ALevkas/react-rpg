@@ -1,0 +1,87 @@
+.game__skills {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(250px, 1fr));
+    gap: 0.5rem;
+}
+
+.game-image {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.game__wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.game__info {
+    padding: 1rem;
+}
+
+.game__attribute {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.game__parameters {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.game__skills {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.game__skill {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.game__footer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.game__training {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.game__status {
+    position: absolute;
+    top: 0;
+    right: 1rem;
+    font-size: 2rem;
+}
+
+@media (max-width: 1356px) {
+    .game__wrapper {
+        flex-direction: column;
+    }
+
+    .game__parameters {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .game__skills {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .game__skill {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .game__footer {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .game__training {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
+        gap: 1rem;
+    }
+}

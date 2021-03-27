@@ -1,0 +1,13 @@
+.hero__settings {
+    display: grid;
+    grid-template-columns: 25%;
+}
+
+@media (max-width: 768px) {
+    .hero__settings {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+    .hero__wrapper {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+}
