@@ -8,7 +8,7 @@ import { HeroProvider } from './HeroContext';
 function App() {
     return (
         <>
-            <Router basename='react-app-hero'>
+            <Router basename='react-rpg'>
                 <HeroProvider>
                     <Header />
                     <Main />

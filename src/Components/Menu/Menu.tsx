@@ -14,6 +14,7 @@ export const Menu = () => {
                     <Link to={`/settings`} className='btn green darken-1'>
                         Создать персонажа
                     </Link>
+                    <br />
                     <button
                         className='btn green darken-1'
                         onClick={() => {
@@ -28,6 +29,7 @@ export const Menu = () => {
                     <Link to={`/game`} className='btn green darken-1'>
                         Продолжить игру
                     </Link>
+                    <br />
                     <Link to={`/settings`} className='btn green darken-1'>
                         Редактировать персонажа
                     </Link>
